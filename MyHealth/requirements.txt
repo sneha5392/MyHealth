@@ -2,7 +2,7 @@ alabaster==0.7.12
 atomicwrites==1.2.1
 attrs==18.2.0
 awsebcli==3.14.7
-Babel==2.6.0
+Babel==2.9.1
 boto3==1.9.38
 botocore==1.12.38
 cement==2.8.2
