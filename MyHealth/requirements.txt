@@ -6,7 +6,7 @@ Babel==2.6.0
 boto3==1.9.38
 botocore==1.12.38
 cement==2.8.2
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 CherryPy==3.8.2
 Click==7.0
